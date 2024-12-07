@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SistAdmPresDocenEscApplication {
+public class sapde {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SistAdmPresDocenEscApplication.class, args);
+		SpringApplication.run(sapde.class, args);
 	}
 
 }
