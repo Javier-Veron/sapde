@@ -4,7 +4,14 @@ import java.util.List;
 
 public class Movimientos {
 
-    List<Abm> lista_abm;
+    //Attributes
+    private List<Abm> lista_abm;
+
+    //Constructor
+
+    //Methods
+
+    //Getters & Setters
 
 }
 
